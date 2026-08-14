@@ -31,10 +31,7 @@
 
 <h3><code>yeeshu04@github ~ $ ./links.sh</code></h3>
 
-<p><b>College Student · Web Developer · Gamer</b></p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yeeshu04c0de-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeeshu04c0de/)
-[![Instagram](https://img.shields.io/badge/Instagram-yeeshu04-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yeeshu04/)
+<p><b>College Student · Web Developer · Learning GenerativeAI</b></p>
 
 <br>
 
