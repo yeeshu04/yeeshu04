@@ -1,22 +1,22 @@
 {
   "username": "yeeshu04",
-  "generated_at": "2026-08-30T11:53:01Z",
+  "generated_at": "2026-08-31T13:46:26Z",
   "range": {
     "start": "2025-08-31",
+    "end": "2026-08-31"
+  },
+  "total_contributions": 311,
+  "active_days": 60,
+  "avg_per_active_day": 5.2,
+  "current_streak": {
+    "length": 36,
+    "start": "2026-07-26",
     "end": "2026-08-30"
   },
-  "total_contributions": 310,
-  "active_days": 59,
-  "avg_per_active_day": 5.3,
-  "current_streak": {
-    "length": 35,
-    "start": "2026-07-26",
-    "end": "2026-08-29"
-  },
   "longest_streak": {
-    "length": 35,
+    "length": 36,
     "start": "2026-07-26",
-    "end": "2026-08-29"
+    "end": "2026-08-30"
   },
   "best_day": {
     "date": "2026-06-08",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 158
+      "total": 159
     }
   ],
   "days": [
@@ -1535,6 +1535,10 @@
     },
     {
       "date": "2026-08-30",
+      "count": 1
+    },
+    {
+      "date": "2026-08-31",
       "count": 0
     }
   ]
